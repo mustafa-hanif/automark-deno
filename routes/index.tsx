@@ -32,7 +32,6 @@ function Login() {
       <input type="text" name="username" />
       <input type="password" name="password" />
       <button type="submit">Submit</button>
-      <ShadButton>Submit</ShadButton>
     </form>
   );
 }
